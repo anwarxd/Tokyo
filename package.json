@@ -1,0 +1,11 @@
+{
+  "name": "tokyo",
+  "version": "1.0.0",
+  "description": "Tokyo Bot Discord By Lamia",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
